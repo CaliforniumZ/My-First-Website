@@ -1,0 +1,22 @@
+h4 {
+    color: red;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.funny {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    color:hotpink;
+    text-decoration: underline;
+    
+}
+
